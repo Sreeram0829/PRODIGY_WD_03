@@ -1,4 +1,4 @@
-🎮 Advanced Tic-Tac-Toe
+🎮 Advanced Tic-Tac-Toe Applicaion
 A feature-packed, AI-powered modern Tic-Tac-Toe game built with HTML, CSS, and JavaScript. This responsive single-page application offers Player vs Player and Player vs Computer modes with multiple difficulty levels. Designed with glassmorphism UI, dark/light themes, animated backgrounds, and a dynamic game history log.
 
 🌟 Features
@@ -14,9 +14,14 @@ A feature-packed, AI-powered modern Tic-Tac-Toe game built with HTML, CSS, and J
 
 🚀 Live Demo
 🔗 Click Here to Play Online
-(Replace with your actual GitHub Pages URL)
+[https://sreetictactoepro.netlify.app/]
+
 
 📷 Screenshots
+![Light Mode View](https://github.com/user-attachments/assets/f3cdc7bf-e14b-4c40-8187-0b718e1e8eb9)
+![Dark Mode View](https://github.com/user-attachments/assets/63e61384-b861-4550-a7f5-082a06de9eaa)
+![Game Play](https://github.com/user-attachments/assets/8027a224-30d5-4f47-aa0f-73856230393f)
+![Game Play History](https://github.com/user-attachments/assets/8688ebdf-6a1e-438e-99e3-597511e2db6d)
 
 
 🛠️ Technologies Used
@@ -87,6 +92,6 @@ Community CSS ideas for gradient and particle animations
 📄 Internship Details
 Developed By: Chapala Sriram
 Internship Organization: Prodigy Infotech
-Submission Date: 10/06/2025
+Submission Date: 27/06/2025
 Track Code: WD
 Track Number: 03
