@@ -29,6 +29,8 @@ HTML5
 CSS3 (Flexbox, Grid, Variables, Transitions, Glassmorphism)
 JavaScript (ES6+)
 
+
+Project Structure
 Tic_Tac_Toe_Web_Application/
 ├── index.html       # Main structure of the web app
 ├── style.css        # All visual styles and themes
@@ -36,9 +38,10 @@ Tic_Tac_Toe_Web_Application/
 ├── LICENSE          # MIT License
 └── README.md        # Project overview and documentation
 
+
 💡 How to Run Locally
 1.Clone the repository:
-git clone https://github.com/your-username/advanced-tic-tac-toe.git
+git clone 
 cd advanced-tic-tac-toe
 2.Open index.html in your browser:
 On Windows: start index.html
